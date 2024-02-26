@@ -73074,13 +73074,15 @@ $S:23}
 A.Eq.prototype={
 R(a){return A.akj(new A.mk(new A.Wx(),null))}}
 A.Wx.prototype={
-$2(a,b){var s,r,q=null,p=b.b<800,o=p?1/0:1100,n=p?10:150,m=p?10:80,l=p?B.cx:B.bU
-l=A.xn("I'm Kritarth Chavda",A.l4(q,q,B.c8,q,q,q,q,q,"Poppins",q,q,p?36:50,q,q,B.aq,q,q,!0,q,q,q,q,q,q,q,q),l)
-s=p?B.cx:B.bU
-r=t.p
-s=A.kc(A.a([l,B.wd,B.Ij,B.wd,A.ds(q,A.xn("I'm deeply passionate about Flutter development and have a strong interest in Java. Currently, I'm exploring Spring Boot for backend development. Crafting apps by day and games by night. Let's build some cool stuff together! \ud83d\ude80\ud83d\udcbb ",A.l4(q,q,B.c8,q,q,q,q,q,"Poppins",q,q,p?17:22,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),s),B.u,q,q,q,q,q,q,q,q,q,800)],r),B.c9,B.aP)
-l=p?70:110
-return A.ds(q,new A.e0(new A.b9(n,m,0,0),A.kc(A.a([s,new A.e0(new A.b9(0,l,0,0),A.mY(A.a([new A.eY("assets/images/github1.png","Github","https://github.com/KritarthChavda",q),new A.eY("assets/images/resume.png","Resume",u.L,q),new A.eY("assets/images/email.png","Email","mailto:kritarthchavda@example.com",q),new A.eY("assets/images/linkedin.png","linkedin",u.M,q),new A.eY("assets/images/medium1.png","Medium","https://medium.com/@kritarthchavda",q)],r),B.a2,B.aP,B.at),q)],r),B.c9,B.aP),q),B.u,q,q,q,q,q,q,q,q,q,o)},
+$2(a,b){var s,r,q,p=null,o=b.b,n=o<768,m=o>=768&&o<=1024,l=n?1/0:1100,k=n?10:150,j=n?10:80,i=n?B.cx:B.bU
+i=A.xn("I'm Kritarth Chavda",A.l4(p,p,B.c8,p,p,p,p,p,"Poppins",p,p,n?36:50,p,p,B.aq,p,p,!0,p,p,p,p,p,p,p,p),i)
+if(n)s=1/0
+else s=m?800:700
+r=n?B.cx:B.bU
+q=t.p
+s=A.kc(A.a([i,B.wd,B.Ij,B.wd,A.ds(p,A.xn("I'm deeply passionate about Flutter development and have a strong interest in Java. Currently, I'm exploring Spring Boot for backend development. Crafting apps by day and games by night. Let's build some cool stuff together! \ud83d\ude80\ud83d\udcbb ",A.l4(p,p,B.c8,p,p,p,p,p,"Poppins",p,p,n?17:22,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),r),B.u,p,p,p,p,p,p,p,p,p,s)],q),B.c9,B.aP)
+i=n?70:110
+return A.ds(p,new A.e0(new A.b9(k,j,0,0),A.kc(A.a([s,new A.e0(new A.b9(0,i,0,0),A.mY(A.a([new A.eY("assets/images/github1.png","Github","https://github.com/KritarthChavda",p),new A.eY("assets/images/resume.png","Resume",u.L,p),new A.eY("assets/images/email.png","Email","mailto:kritarthchavda@example.com",p),new A.eY("assets/images/linkedin.png","linkedin",u.M,p),new A.eY("assets/images/medium1.png","Medium","https://medium.com/@kritarthchavda",p)],q),B.a2,B.aP,B.at),p)],q),B.c9,B.aP),p),B.u,p,p,p,p,p,p,p,p,p,l)},
 $S:129}
 A.Bw.prototype={
 R(a){return new A.rF(A.a([A.a4Z("Software UnderGrad",B.fe),A.a4Z("Flutter Developer",B.fe),A.a4Z("Game Developer",B.fe),A.a4Z("Java Enthusiast",B.fe)],t.u6),B.cc,!0,!0,!0,null)}}
