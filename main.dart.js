@@ -64173,7 +64173,7 @@ A.BL.prototype={
 P(a){return A.aef(new A.lc(new A.Sw(),null))}}
 A.Sw.prototype={
 $2(a,b){var s,r,q=null,p=b.b,o=p<768,n=p>=768&&p<=1024,m=o?1/0:1100,l=o?10:150,k=o?10:80,j=o?B.eQ:B.bF
-j=A.vh("I'm Kritarth Chavda",A.md(q,q,B.bV,q,q,q,q,q,"Poppins",q,q,o?36:50,q,q,B.ar,q,q,!0,q,q,q,q,q,q,q,q),j)
+j=A.vh("I'm Kritarth",A.md(q,q,B.bV,q,q,q,q,q,"Poppins",q,q,o?36:50,q,q,B.ar,q,q,!0,q,q,q,q,q,q,q,q),j)
 if(o)s=1/0
 else s=n?800:700
 r=t.p
@@ -69568,7 +69568,7 @@ i=j[2]
 h=[400*d/(d+27.13),400*c/(c+27.13),400*i/(i+27.13)]
 return new A.a0H(l,(40*h[0]+20*h[1]+h[2])/20*k,k,k,a1,1,q,m,A.yS(m,0.25),1.48+e)})
 s($,"avk","a7X",()=>A.acE())
-r($,"axO","abp",()=>A.a([A.fO(B.yW,B.Aq,"https://github.com/KritarthChavda/Daily-Read","Daily Read"),A.fO(A.U(255,253,255,155),B.Au,"","Weatherly"),A.fO(A.U(255,183,232,255),B.Ap,null,"Amazon Clone"),A.fO(A.U(255,167,255,208),B.Av,"https://github.com/KritarthChavda/To-Do-LIst","Todo"),A.fO(A.U(255,255,173,229),B.Az,"","Tetris"),A.fO(A.U(255,172,255,186),B.Ax,"https://github.com/KritarthChavda/Expense-Tracker-App","Spendly"),A.fO(A.U(255,255,95,127),B.As,"","Bubble Blast"),A.fO(A.U(255,237,255,177),B.Ay,"","2048"),A.fO(B.i,B.Aw,"https://github.com/KritarthChavda/AskGita","Ask Gita"),A.fO(A.U(255,255,157,250),B.Ar,"https://github.com/KritarthChavda/SuperCleats","SuperCleat"),A.fO(A.U(255,176,151,255),B.At,"https://github.com/KritarthChavda/Tic-Tac-Toe","TicTacToe")],A.X("v<zd>")))
+r($,"axO","abp",()=>A.a([A.fO(B.yW,B.Aq,"https://github.com/KritarthChavda/Daily-Read","Daily R..."),A.fO(A.U(255,253,255,155),B.Au,"","Weathe..."),A.fO(A.U(255,183,232,255),B.Ap,null,"Amazon..."),A.fO(A.U(255,167,255,208),B.Av,"https://github.com/KritarthChavda/To-Do-LIst","Todo"),A.fO(A.U(255,255,173,229),B.Az,"","Tetris"),A.fO(A.U(255,172,255,186),B.Ax,"https://github.com/KritarthChavda/Expense-Tracker-App","Spendly"),A.fO(A.U(255,255,95,127),B.As,"","Bubble B.."),A.fO(A.U(255,237,255,177),B.Ay,"","2048"),A.fO(B.i,B.Aw,"https://github.com/KritarthChavda/AskGita","Ask Gita"),A.fO(A.U(255,255,157,250),B.Ar,"https://github.com/KritarthChavda/SuperCleats","SuperCl..."),A.fO(A.U(255,176,151,255),B.At,"https://github.com/KritarthChavda/Tic-Tac-Toe","TicTacToe")],A.X("v<zd>")))
 r($,"ay3","z_",()=>$.ahV())
 s($,"aw_","ab7",()=>new A.A())
 r($,"apx","ab6",()=>{var q=new A.Ux()
