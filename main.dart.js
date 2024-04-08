@@ -64521,7 +64521,7 @@ A.BT.prototype={
 P(a){return A.a9P(new A.lf(new A.SK(),null))}}
 A.SK.prototype={
 $2(a,b){var s,r,q=null,p=b.b,o=p<768,n=p>=768&&p<=1024,m=o?1/0:1100,l=o?10:150,k=o?10:80,j=o?B.eW:B.bI
-j=A.oC("I'm Kritarth Chavda",A.me(q,q,B.bX,q,q,q,q,q,"Poppins",q,q,o?36:50,q,q,B.am,q,q,!0,q,q,q,q,q,q,q,q),j)
+j=A.oC("I'm Kritarth",A.me(q,q,B.bX,q,q,q,q,q,"Poppins",q,q,o?36:50,q,q,B.am,q,q,!0,q,q,q,q,q,q,q,q),j)
 if(o)s=1/0
 else s=n?800:700
 r=t.p
