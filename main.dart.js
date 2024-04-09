@@ -64412,7 +64412,7 @@ A.BS.prototype={
 P(a){return A.a9P(new A.lg(new A.SN(),null))}}
 A.SN.prototype={
 $2(a,b){var s,r,q=null,p=b.b<800,o=p?70:120,n=p?10:40,m=p?0:150,l=p?B.eW:B.bI
-l=A.oD("I'm Kritarth",A.mf(q,q,B.bX,q,q,q,q,q,"Poppins",q,q,p?36:50,q,q,B.am,q,q,!0,q,q,q,q,q,q,q,q),l)
+l=A.oD("I'm Kritarth Chavda",A.mf(q,q,B.bX,q,q,q,q,q,"Poppins",q,q,p?36:50,q,q,B.am,q,q,!0,q,q,q,q,q,q,q,q),l)
 s=t.p
 l=A.i4(A.a([l,B.vv,B.GZ,B.vv,A.cK(q,A.oD("I'm deeply passionate about Flutter development and have a strong interest in Java. Currently, I'm exploring Spring Boot for backend development. Crafting apps by day and games by night. Let's build some cool stuff together! \ud83d\ude80\ud83d\udcbb ",A.mf(q,q,B.bX,q,q,q,q,q,"Poppins",q,q,p?17:22,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.bI),B.o,q,q,q,q,q,q,q,q,q,q)],s),B.cy,B.bf)
 r=p?50:100
@@ -64433,7 +64433,7 @@ s=t.l7
 r=J.a9e(11,s)
 for(q=t.p,p=0;p<11;++p){o=$.a8d()[p]
 n=o.d
-r[p]=A.cK(m,A.i4(A.a([new A.qN(new A.jj(B.ac,m,m,A.ad8(o.c,B.m,25),m),n,new A.WJ(p),45,45,m),new A.hs(60,m,new A.jj(B.ac,m,m,A.oD(o.a,A.ahJ().$3$color$fontSize$fontWeight(B.i,12,B.am),m),m),m)],q),B.a2,B.aZ),B.o,m,m,m,m,m,B.Ab,m,m,m,m)}return A.a9P(A.i4(A.a([A.iH(A.acj(l,new A.di(B.kb,A.cK(m,A.i4(A.a([A.a8W(new A.FU(B.OM,B.ON,A.a7(r,!0,s),m))],q),B.a2,B.aZ),B.o,m,m,m,m,m,m,m,m,m,m),m)),500,550),A.iH(A.acj($.aii(),new A.di(B.kb,A.cK(m,A.kI(A.oD("Coming Soon",A.ahJ().$3$color$fontSize$fontWeight(B.i,70,B.am),m),m,m),B.o,m,m,m,m,m,m,m,m,m,m),m)),450,550)],q),B.a2,B.aZ))}}
+r[p]=A.cK(m,A.i4(A.a([new A.qN(new A.jj(B.ac,m,m,A.ad8(o.c,B.m,25),m),n,new A.WJ(p),45,45,m),new A.hs(60,m,new A.jj(B.ac,m,m,A.oD(o.a,A.ahJ().$3$color$fontSize$fontWeight(B.i,11,B.am),m),m),m)],q),B.a2,B.aZ),B.o,m,m,m,m,m,B.Ab,m,m,m,m)}return A.a9P(A.i4(A.a([A.iH(A.acj(l,new A.di(B.kb,A.cK(m,A.i4(A.a([A.a8W(new A.FU(B.OM,B.ON,A.a7(r,!0,s),m))],q),B.a2,B.aZ),B.o,m,m,m,m,m,m,m,m,m,m),m)),500,550),A.iH(A.acj($.aii(),new A.di(B.kb,A.cK(m,A.kI(A.oD("Coming Soon",A.ahJ().$3$color$fontSize$fontWeight(B.i,70,B.am),m),m,m),B.o,m,m,m,m,m,m,m,m,m,m),m)),450,550)],q),B.a2,B.aZ))}}
 A.WJ.prototype={
 $0(){var s=$.a8d()[this.a].f
 if(s!=null)A.N6(s)},
