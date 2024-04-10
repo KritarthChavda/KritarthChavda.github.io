@@ -64433,7 +64433,7 @@ s=t.l7
 r=J.a9d(11,s)
 for(q=t.p,p=0;p<11;++p){o=$.a8d()[p]
 n=o.d
-r[p]=A.cK(m,A.jn(A.a([new A.qN(new A.ji(B.ac,m,m,A.ad8(o.c,B.m,25),m),n,new A.WJ(p),45,45,m),new A.hs(60,30,new A.ji(B.ac,m,m,A.oD(o.a,A.ahJ().$3$color$fontSize$fontWeight(B.i,13,B.am),m),m),m)],q),B.a4,B.be),B.o,m,m,m,m,m,B.Ab,m,m,m,m)}return A.a9O(A.jn(A.a([A.iG(A.aci(l,new A.di(B.kb,A.cK(m,new A.FU(B.OM,B.ON,A.a7(r,!0,s),m),B.o,m,m,m,m,m,m,m,m,m,m),m)),500,550),A.iG(A.aci($.aii(),new A.di(B.kb,A.cK(m,A.kI(A.oD("Coming Soon",A.ahJ().$3$color$fontSize$fontWeight(B.i,70,B.am),m),m,m),B.o,m,m,m,m,m,m,m,m,m,m),m)),450,550)],q),B.a4,B.be))}}
+r[p]=A.cK(m,A.jn(A.a([new A.qN(new A.ji(B.ac,m,m,A.ad8(o.c,B.m,25),m),n,new A.WJ(p),45,45,m),new A.hs(60,m,new A.ji(B.ac,m,m,A.oD(o.a,A.ahJ().$3$color$fontSize$fontWeight(B.i,11,B.am),m),m),m)],q),B.a4,B.be),B.o,m,m,m,m,m,B.Ab,m,m,m,m)}return A.a9O(A.jn(A.a([A.iG(A.aci(l,new A.di(B.kb,A.cK(m,new A.FU(B.OM,B.ON,A.a7(r,!0,s),m),B.o,m,m,m,m,m,m,m,m,m,m),m)),500,550),A.iG(A.aci($.aii(),new A.di(B.kb,A.cK(m,A.kI(A.oD("Coming Soon",A.ahJ().$3$color$fontSize$fontWeight(B.i,70,B.am),m),m,m),B.o,m,m,m,m,m,m,m,m,m,m),m)),450,550)],q),B.a4,B.be))}}
 A.WJ.prototype={
 $0(){var s=$.a8d()[this.a].f
 if(s!=null)A.N6(s)},
