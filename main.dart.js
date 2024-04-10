@@ -64412,7 +64412,7 @@ A.BS.prototype={
 P(a){return A.a9O(new A.lg(new A.SN(),null))}}
 A.SN.prototype={
 $2(a,b){var s,r,q=null,p=b.b<800,o=p?80:120,n=p?10:40,m=p?0:150,l=p?B.eW:B.bI
-l=A.oD("I'm Kritarth",A.mf(q,q,B.bX,q,q,q,q,q,"Poppins",q,q,p?36:50,q,q,B.am,q,q,!0,q,q,q,q,q,q,q,q),l)
+l=A.oD("I'm Kritarth Chavda",A.mf(q,q,B.bX,q,q,q,q,q,"Poppins",q,q,p?36:50,q,q,B.am,q,q,!0,q,q,q,q,q,q,q,q),l)
 s=t.p
 l=A.jn(A.a([l,B.vv,B.GZ,B.vv,A.cK(q,A.oD("I'm deeply passionate about Flutter development and have a strong interest in Java. Currently, I'm exploring Spring Boot for backend development. Crafting apps by day and games by night. Let's build some cool stuff together! \ud83d\ude80\ud83d\udcbb ",A.mf(q,q,B.bX,q,q,q,q,q,"Poppins",q,q,p?17:22,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.bI),B.o,q,q,q,q,q,q,q,q,q,q)],s),B.cy,B.bf)
 r=p?60:100
