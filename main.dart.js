@@ -64411,11 +64411,11 @@ $S:133}
 A.BS.prototype={
 P(a){return A.a9O(new A.lg(new A.SN(),null))}}
 A.SN.prototype={
-$2(a,b){var s,r,q=null,p=b.b<800,o=p?70:120,n=p?10:40,m=p?0:150,l=p?B.eW:B.bI
+$2(a,b){var s,r,q=null,p=b.b<800,o=p?80:120,n=p?10:40,m=p?0:150,l=p?B.eW:B.bI
 l=A.oD("I'm Kritarth Chavda",A.mf(q,q,B.bX,q,q,q,q,q,"Poppins",q,q,p?36:50,q,q,B.am,q,q,!0,q,q,q,q,q,q,q,q),l)
 s=t.p
 l=A.jn(A.a([l,B.vv,B.GZ,B.vv,A.cK(q,A.oD("I'm deeply passionate about Flutter development and have a strong interest in Java. Currently, I'm exploring Spring Boot for backend development. Crafting apps by day and games by night. Let's build some cool stuff together! \ud83d\ude80\ud83d\udcbb ",A.mf(q,q,B.bX,q,q,q,q,q,"Poppins",q,q,p?17:22,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.bI),B.o,q,q,q,q,q,q,q,q,q,q)],s),B.cy,B.bf)
-r=p?50:100
+r=p?60:100
 return A.kI(A.cK(q,A.jn(A.a([new A.di(new A.aZ(n,o,m,0),l,q),new A.di(new A.aZ(0,r,0,0),A.ok(A.a([new A.ei("assets/images/github1.png","Github","https://github.com/KritarthChavda",q),new A.ei("assets/images/resume.png","Resume",u.L,q),new A.ei("assets/images/email.png","Email","mailto:kritarthchavda@example.com",q),new A.ei("assets/images/linkedin.png","linkedin",u.M,q),new A.ei("assets/images/medium1.png","Medium","https://medium.com/@kritarthchavda",q)],s),B.a4,B.bf,B.aO),q)],s),B.a4,B.bf),B.o,q,q,q,q,q,q,q,q,q,q),q,q)},
 $S:133}
 A.zd.prototype={
@@ -64433,7 +64433,7 @@ s=t.l7
 r=J.a9d(11,s)
 for(q=t.p,p=0;p<11;++p){o=$.a8d()[p]
 n=o.d
-r[p]=A.cK(m,A.jn(A.a([new A.qN(new A.ji(B.ac,m,m,A.ad8(o.c,B.m,25),m),n,new A.WJ(p),45,45,m),new A.hs(60,m,new A.ji(B.ac,m,m,A.oD(o.a,A.ahJ().$3$color$fontSize$fontWeight(B.i,11,B.am),m),m),m)],q),B.a4,B.be),B.o,m,m,m,m,m,B.Ab,m,m,m,m)}return A.a9O(A.jn(A.a([A.iG(A.aci(l,new A.di(B.kb,A.cK(m,new A.FU(B.OM,B.ON,A.a7(r,!0,s),m),B.o,m,m,m,m,m,m,m,m,m,m),m)),500,550),A.iG(A.aci($.aii(),new A.di(B.kb,A.cK(m,A.kI(A.oD("Coming Soon",A.ahJ().$3$color$fontSize$fontWeight(B.i,70,B.am),m),m,m),B.o,m,m,m,m,m,m,m,m,m,m),m)),450,550)],q),B.a4,B.be))}}
+r[p]=A.cK(m,A.jn(A.a([new A.qN(new A.ji(B.ac,m,m,A.ad8(o.c,B.m,25),m),n,new A.WJ(p),45,45,m),new A.hs(60,30,new A.ji(B.ac,m,m,A.oD(o.a,A.ahJ().$3$color$fontSize$fontWeight(B.i,13,B.am),m),m),m)],q),B.a4,B.be),B.o,m,m,m,m,m,B.Ab,m,m,m,m)}return A.a9O(A.jn(A.a([A.iG(A.aci(l,new A.di(B.kb,A.cK(m,new A.FU(B.OM,B.ON,A.a7(r,!0,s),m),B.o,m,m,m,m,m,m,m,m,m,m),m)),500,550),A.iG(A.aci($.aii(),new A.di(B.kb,A.cK(m,A.kI(A.oD("Coming Soon",A.ahJ().$3$color$fontSize$fontWeight(B.i,70,B.am),m),m,m),B.o,m,m,m,m,m,m,m,m,m,m),m)),450,550)],q),B.a4,B.be))}}
 A.WJ.prototype={
 $0(){var s=$.a8d()[this.a].f
 if(s!=null)A.N6(s)},
